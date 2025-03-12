@@ -27,3 +27,4 @@ Fix bug in feature X
 Improve error handling
 Clean up codebase
 Update dependencies
+Fix broken link
