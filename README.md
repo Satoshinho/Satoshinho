@@ -18,3 +18,4 @@ Add test cases
 Fix bug in feature X
 Change theme color
 Rewrite function Y
+Improve error handling
