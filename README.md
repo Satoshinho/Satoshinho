@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Add test cases
 Fix bug in feature X
+Change theme color
