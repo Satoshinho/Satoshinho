@@ -22,3 +22,4 @@ Improve error handling
 Fix bug in feature X
 Fix typo in README
 Fix broken link
+Fix typo in README
