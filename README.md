@@ -28,3 +28,4 @@ Improve error handling
 Clean up codebase
 Update dependencies
 Fix broken link
+Refactor core logic
